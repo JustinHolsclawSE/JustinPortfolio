@@ -1,0 +1,60 @@
+{ 
+    "skills" : [
+    {
+      "name" : "TypeScript",
+      "description" : "Typescript in conjunction with the React library, AngularJS framework, and NextJS.",
+      "experience" : "what",
+      "logo": "src/assets/ts-logo-128.png",
+      "active" : true
+    },
+    {
+        "name" : "React",
+        "description" : "Work with both Typescript and Javascript. Both class and function based React. React is the Library I am most familiar with having had experience professionally as well as in school with React.",
+        "experience" : "what",
+        "logo": "src/assets/react.svg",
+        "active" : true
+    },
+    {
+        "name" : "Angular",
+        "description" : "Work with both Typescript and Javascript. Both class and function based React. React is the Library I am most familiar with having had experience professionally as well as in school with React.",
+        "experience" : "what",
+        "logo": "src/assets/angular.png",
+        "active" : true
+    },
+    {
+        "name" : "NodeJS",
+        "description" : "Work with both Typescript and Javascript. Both class and function based React. React is the Library I am most familiar with having had experience professionally as well as in school with React.",
+        "experience" : "what",
+        "logo": "src/assets/jsIconGreen.svg",
+        "active" : true
+    },
+    {
+        "name" : "Python",
+        "description" : "Work with both Typescript and Javascript. Both class and function based React. React is the Library I am most familiar with having had experience professionally as well as in school with React.",
+        "experience" : "what",
+        "logo": "src/assets/python-logo-only.png",
+        "active" : true
+    },
+    {
+        "name" : "SCSS",
+        "description" : "Work with both Typescript and Javascript. Both class and function based React. React is the Library I am most familiar with having had experience professionally as well as in school with React.",
+        "experience" : "what",
+        "logo": "src/assets/scss-seal-color.png",
+        "active" : true
+    },
+    {
+        "name" : "Bootstrap",
+        "description" : "Work with both Typescript and Javascript. Both class and function based React. React is the Library I am most familiar with having had experience professionally as well as in school with React.",
+        "experience" : "what",
+        "logo": "src/assets/scss-seal-color.png",
+        "active" : true
+    },
+    {
+        "name" : "APIs",
+        "description" : "Work with both Typescript and Javascript. Both class and function based React. React is the Library I am most familiar with having had experience professionally as well as in school with React.",
+        "experience" : "what",
+        "logo": "src/assets/icons8-api-100.png",
+        "active" : true
+    }
+  ]
+}
